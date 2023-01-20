@@ -32,7 +32,7 @@
 
     <section id="product1" class="section-p1">
         <h1>WELCOME TO OUR HOTEL WEBSITE</h1>
-        <p>Please Choose One of These Location</p>
+        <p>Please Choose One of These Place</p>
         <div class="pro-container">
             <div class="pro" onclick="window.location.href='jakarta.jsp'">
                 <img src="img/banner/jakartacatalog.png" alt="">
