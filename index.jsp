@@ -64,3 +64,34 @@
             </div>
         </div>
     </section>    
+    
+    <footer class="section-p1">
+
+        <div>
+            <img src="img/logohotel.png" height="200px" alt="">
+        </div>
+
+        <div class="col">
+            <h4>Contact</h4>
+            <p><strong>Address:</strong> Tribe Hotel, Kemang Raya Selatan No.1</p>
+            <p><strong>Phone:</strong> (021)-735-8924/786-3508</p>
+            <p><span><strong>Hours:</strong> 08.00 - 16.00, Mon - Fri</span></p>
+            <div class="follow">
+                <h4>Follow Us</h4>
+                <div class="icon">
+                    <a href="https://www.facebook.com/TribeHotels/"><i class="fab fa-facebook-f"></i></a>
+                    <a href="https://www.instagram.com/tribe_hotels/"><i class="fab fa-instagram"></i></a>
+                </div>
+            </div>
+        </div>
+
+        <div class="copyright">
+            <p>©️ 2022, Group 4 Project Hotel Reservation</p>
+        </div>
+    </footer>
+
+    <script src="js/script.js"></script> 
+</body>
+
+</html>
+
