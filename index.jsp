@@ -77,7 +77,7 @@
             <p><strong>Phone:</strong> (021)-735-8924/786-3508</p>
             <p><span><strong>Hours:</strong> 08.00 - 16.00, Mon - Fri</span></p>
             <div class="follow">
-                <h4>Follow Us</h4>
+                <h4>Follow Us Now</h4>
                 <div class="icon">
                     <a href="https://www.facebook.com/TribeHotels/"><i class="fab fa-facebook-f"></i></a>
                     <a href="https://www.instagram.com/tribe_hotels/"><i class="fab fa-instagram"></i></a>
